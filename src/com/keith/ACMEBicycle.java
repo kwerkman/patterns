@@ -28,7 +28,7 @@ package com.keith;
 	    }
 	    
 	    void printStates() {
-	         System.out.println("cadence : " +
+	         System.out.println("cadence :  " +
 	             cadence + " speed:" + 
 	             speed + " gear:" + gear);
 	    }
