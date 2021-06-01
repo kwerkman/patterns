@@ -10,6 +10,8 @@ public interface Bicycle {
     void speedUp(int increment);
 
     void applyBrakes(int decrement);
+    
 
     boolean honkHorn();
+    
 }
